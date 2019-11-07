@@ -1,11 +1,11 @@
 
 {
   "schemaVersion": 1,
-  "id": "tutorial_jigsaws",
+  "id": "jigsawdungeon",
   "version": "${version}",
 
-  "name": "Jigsaw Tutorial",
-  "description": "Tutorial mod on Jigsaws",
+  "name": "Jigsaw Dungeon",
+  "description": "Simple mod that adds in a dungeon built with Jigsaws.",
   "authors": [
     "Draylar"
   ],
@@ -15,15 +15,16 @@
   },
 
   "license": "GPLv3",
+  "icon": "assets/jigsawdungeon/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.draylar.tutorial.TutorialJigsaws"
+      "com.github.draylar.tutorial.JigsawDungeon"
     ]
   },
   "mixins": [
-    "tutorialjigsaws.mixins.json"
+    "jigsawdungeon.mixins.json"
   ],
 
   "requires": {
