@@ -1,7 +1,6 @@
-package com.github.draylar.tutorial.mixin;
+package com.github.draylar.jigsawdungeon.mixin;
 
 import com.mojang.brigadier.CommandDispatcher;
-import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import net.minecraft.server.command.LocateCommand;
 import net.minecraft.server.command.ServerCommandSource;
 import org.spongepowered.asm.mixin.Mixin;

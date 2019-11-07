@@ -1,8 +1,8 @@
-package com.github.draylar.tutorial.world.features.jigsaw_dungeon;
+package com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon;
 
-import com.github.draylar.tutorial.JigsawDungeon;
-import com.github.draylar.tutorial.world.BTStructurePoolBasedGenerator;
-import com.github.draylar.tutorial.world.DungeonPoolElement;
+import com.github.draylar.jigsawdungeon.JigsawDungeon;
+import com.github.draylar.jigsawdungeon.world.BTStructurePoolBasedGenerator;
+import com.github.draylar.jigsawdungeon.world.DungeonPoolElement;
 import com.google.common.collect.ImmutableList;
 import com.mojang.datafixers.util.Pair;
 import net.minecraft.block.Block;

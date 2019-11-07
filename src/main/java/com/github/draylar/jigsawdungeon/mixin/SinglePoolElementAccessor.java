@@ -1,6 +1,6 @@
-package com.github.draylar.tutorial.mixin;
+package com.github.draylar.jigsawdungeon.mixin;
 
-import com.github.draylar.tutorial.util.LocationAccessor;
+import com.github.draylar.jigsawdungeon.util.LocationAccessor;
 import net.minecraft.structure.pool.SinglePoolElement;
 import net.minecraft.util.Identifier;
 import org.spongepowered.asm.mixin.Final;

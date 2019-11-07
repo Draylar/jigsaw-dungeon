@@ -1,4 +1,4 @@
-package com.github.draylar.tutorial.util;
+package com.github.draylar.jigsawdungeon.util;
 
 import net.minecraft.util.Identifier;
 

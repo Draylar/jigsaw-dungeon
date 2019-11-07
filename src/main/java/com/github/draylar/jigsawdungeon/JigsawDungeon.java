@@ -1,6 +1,6 @@
-package com.github.draylar.tutorial;
+package com.github.draylar.jigsawdungeon;
 
-import com.github.draylar.tutorial.world.World;
+import com.github.draylar.jigsawdungeon.world.World;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;

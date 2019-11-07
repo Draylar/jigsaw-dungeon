@@ -10,8 +10,8 @@
     "Draylar"
   ],
   "contact": {
-    "homepage": "https://github.com/Draylar",
-    "sources": "https://github.com/Draylar/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/jigsaw-dungeon",
+    "sources": "https://github.com/Draylar/jigsaw-dungeon"
   },
 
   "license": "GPLv3",
@@ -20,7 +20,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.draylar.tutorial.JigsawDungeon"
+      "com.github.draylar.jigsawdungeon.JigsawDungeon"
     ]
   },
   "mixins": [

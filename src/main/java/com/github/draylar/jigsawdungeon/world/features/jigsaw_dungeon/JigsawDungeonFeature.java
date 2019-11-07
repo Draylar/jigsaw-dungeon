@@ -1,4 +1,4 @@
-package com.github.draylar.tutorial.world.features.jigsaw_dungeon;
+package com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon;
 
 import com.mojang.datafixers.Dynamic;
 import net.minecraft.world.gen.feature.AbstractTempleFeature;

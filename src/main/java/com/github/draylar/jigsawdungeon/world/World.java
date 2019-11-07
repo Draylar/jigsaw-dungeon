@@ -1,8 +1,8 @@
-package com.github.draylar.tutorial.world;
+package com.github.draylar.jigsawdungeon.world;
 
-import com.github.draylar.tutorial.JigsawDungeon;
-import com.github.draylar.tutorial.world.features.jigsaw_dungeon.JigsawDungeonFeature;
-import com.github.draylar.tutorial.world.features.jigsaw_dungeon.JigsawDungeonPiece;
+import com.github.draylar.jigsawdungeon.JigsawDungeon;
+import com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon.JigsawDungeonFeature;
+import com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon.JigsawDungeonPiece;
 import net.minecraft.structure.StructurePieceType;
 import net.minecraft.structure.pool.StructurePoolElementType;
 import net.minecraft.util.Identifier;

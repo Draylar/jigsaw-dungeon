@@ -1,7 +1,7 @@
-package com.github.draylar.tutorial.world;
+package com.github.draylar.jigsawdungeon.world;
 
-import com.github.draylar.tutorial.world.features.jigsaw_dungeon.JigsawDungeonStructureStart;
-import com.github.draylar.tutorial.util.LocationAccessor;
+import com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon.JigsawDungeonStructureStart;
+import com.github.draylar.jigsawdungeon.util.LocationAccessor;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Queues;
 import net.minecraft.block.JigsawBlock;

@@ -1,6 +1,6 @@
-package com.github.draylar.tutorial.world.features.jigsaw_dungeon;
+package com.github.draylar.jigsawdungeon.world.features.jigsaw_dungeon;
 
-import com.github.draylar.tutorial.world.World;
+import com.github.draylar.jigsawdungeon.world.World;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.structure.PoolStructurePiece;
 import net.minecraft.structure.StructureManager;

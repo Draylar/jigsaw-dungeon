@@ -1,7 +1,7 @@
-package com.github.draylar.tutorial.world;
+package com.github.draylar.jigsawdungeon.world;
 
-import com.github.draylar.tutorial.util.GenerationUtils;
-import com.github.draylar.tutorial.util.SpawnerUtils;
+import com.github.draylar.jigsawdungeon.util.GenerationUtils;
+import com.github.draylar.jigsawdungeon.util.SpawnerUtils;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
 import com.mojang.datafixers.Dynamic;

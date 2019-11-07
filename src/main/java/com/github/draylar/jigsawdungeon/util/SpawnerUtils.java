@@ -1,4 +1,4 @@
-package com.github.draylar.tutorial.util;
+package com.github.draylar.jigsawdungeon.util;
 
 import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.block.entity.MobSpawnerBlockEntity;
